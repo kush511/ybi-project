@@ -1,0 +1,1 @@
+This repository contains a machine learning project focused on classifying handwritten digits using the digits dataset. The dataset features 8x8 pixel grayscale images of digits (0-9). The goal is to build and evaluate a model that accurately predicts the digits based on these pixel values.
